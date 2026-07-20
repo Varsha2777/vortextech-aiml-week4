@@ -10,10 +10,6 @@ The objective of this project is to build a Machine Learning model that can clas
 
 
 
-\---
-
-
-
 \## Dataset
 
 
@@ -27,10 +23,6 @@ The objective of this project is to build a Machine Learning model that can clas
 &#x20; - Positive
 
 &#x20; - Negative
-
-
-
-\---
 
 
 
@@ -51,10 +43,6 @@ The objective of this project is to build a Machine Learning model that can clas
 \- Logistic Regression
 
 \- Jupyter Notebook
-
-
-
-\---
 
 
 
@@ -94,9 +82,6 @@ The objective of this project is to build a Machine Learning model that can clas
 
 
 
-\---
-
-
 
 \## Model Performance
 
@@ -105,10 +90,6 @@ The objective of this project is to build a Machine Learning model that can clas
 \- \*\*Accuracy:\*\* 89.28%
 
 \- \*\*F1 Score:\*\* 89.48%
-
-
-
-\---
 
 
 
@@ -128,10 +109,6 @@ The objective of this project is to build a Machine Learning model that can clas
 
 
 
-\---
-
-
-
 \## Conclusion
 
 
@@ -141,10 +118,6 @@ The Logistic Regression model successfully classified IMDB movie reviews into po
 
 
 The project demonstrates how \*\*Natural Language Processing (NLP)\*\* and \*\*Machine Learning\*\* can be used to analyze customer opinions automatically. The model achieved strong performance and was also tested on custom reviews.
-
-
-
-\---
 
 
 
